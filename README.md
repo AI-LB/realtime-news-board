@@ -38,3 +38,5 @@ src/
   lib/          # 工具函数
   types/        # TypeScript 类型定义
 ```
+
+自动部署测试
