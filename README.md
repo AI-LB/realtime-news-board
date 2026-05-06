@@ -6,6 +6,8 @@
 
 **https://realtime-news-board.vercel.app**
 
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://realtime-news-board.vercel.app)
+
 ## 功能
 - 实时资讯 Dashboard（每 30 秒自动刷新 mock 数据）
 - 横向滚动新闻条（Breaking News ticker）
